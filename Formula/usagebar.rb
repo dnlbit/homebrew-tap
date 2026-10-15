@@ -3,8 +3,8 @@ class Usagebar < Formula
 
   desc "Menu bar monitor and MCP server for Claude Code usage limits"
   homepage "https://github.com/dnlbit/usagebar"
-  url "https://github.com/dnlbit/usagebar/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "879c01eb0c0d424c70afa72a17b5fee3560a8d55c76167416721ac65848ebed2"
+  url "https://github.com/dnlbit/usagebar/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "8edbb66d8d1f368e3eb7289af9e8b16d4ad120e0f433b52ba122f4f51ba694d2"
   license "MIT"
 
   depends_on :macos
